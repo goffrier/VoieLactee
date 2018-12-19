@@ -1,3 +1,3 @@
 # VoieLactee
-A "Distribution" For Homebrews on a 6.2.0 Switch!! &lt;3
-ReiNX created by Rei,elise,MarieKirya,Calypso
+A "Distribution" for Homebrews on 6.2.0 Switches &lt;3
+ReiNX by Rei,elise,MarieKirya,Calypso

@@ -15,3 +15,13 @@ Homebrew Menu.
 Checkpoint.
 FTPD.
 Tinfoil, by Adubbz.
+
+
+Credits:
+@Rei, and elise,MarieKirya,Calypso
+CTCaer, and everyone in Hekate's credits.
+Everyone that contributed to nx-hbloader.
+Everyone that contributed to nx-hbmenu.
+@BernardoGiordano, and the FlagBrew team.
+mtheall, and everyone that contributed to FTPD
+Adubbz.

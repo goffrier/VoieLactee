@@ -5,7 +5,7 @@ ReiNX by Rei,elise,MarieKirya,Calypso
 How to install
 Download latest release.
 Copy sd contents into the root of your SD card.
-Push hekate_ctcaer_4.6.bin with your preferred method.
+Push hekate_ctcaer_4.8.bin with your preferred method.
 Done!
 What's included?
 Pure and full ReiNX. Not gutted, not chopped.

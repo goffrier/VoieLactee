@@ -15,6 +15,8 @@ Homebrew Menu.
 Checkpoint.
 FTPD.
 Tinfoil, by Adubbz.
+Lithium by Blawar
+Goldleaf by XorTroll
 
 
 Credits:

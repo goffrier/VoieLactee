@@ -24,4 +24,6 @@ Everyone that contributed to nx-hbloader.
 Everyone that contributed to nx-hbmenu.
 @BernardoGiordano, and the FlagBrew team.
 mtheall, and everyone that contributed to FTPD
-Adubbz.
+Adubbz
+XorTroll
+Blawar
